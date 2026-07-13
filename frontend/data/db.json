@@ -1,0 +1,6 @@
+{
+  "kitaplar": [
+    { "id": 1, "baslik": "Harry Potter", "yazar": "J.K. Rowling", "fav": false },
+    { "id": 2, "baslik": "Yüzüklerin Efendisi", "yazar": "J.R.R. Tolkien", "fav": false }
+  ]
+}
